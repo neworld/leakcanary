@@ -38,6 +38,11 @@ Install it via [Homebrew](https://brew.sh/):
 brew install leakcanary-shark
 ```
 
+Install it via [Archlinux AUR](https://aur.archlinux.org/packages/shark-cli/)
+```bash
+yay -S shark-cli
+```
+
 You can also download it [here](https://github.com/square/leakcanary/releases/download/v{{ leak_canary.release }}/shark-cli-{{ leak_canary.release }}.zip).
 
 You can then look for leaks in apps on any connected device, for example: 
